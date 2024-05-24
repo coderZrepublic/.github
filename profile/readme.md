@@ -1,5 +1,5 @@
 <h1 align="center">CoderZRepublic</h1>
-We are an Online institute that teach a variety of Coding languages and DevOps, our list of teaching include these items, we have currently 2 lecturers, our online presense is on Discord and we plan to make more tutorials in the form of blogs and videos in the near future.
+We are an Online institute that teach a variety of Coding languages and DevOps, our list of teaching include these items, we have currently 3 lecturers, our online presense is on Discord and we plan to make more tutorials in the form of blogs and videos in the near future.
 <h2>Languages and Frameworks</h2>
 
 - Python
@@ -42,6 +42,34 @@ We are an Online institute that teach a variety of Coding languages and DevOps, 
   - Cmake
   - D++
  
+<h2>Devops</h2>
+
+- Authentication
+  - SSO
+  - Azure IAM Roles
+- Kubernetes
+  - Helm Charts
+  - Docker introduction
+  - YAML Scripts
+  - GCP Coverance
+  - Minikube
+- Pipelines
+  - Jenkins
+  - Github Actions
+- Cloud (webapp)
+  - Vercel (free)
+  - Heroku
+  - Render (free)
+  - GCP
+  - AWS
+  - Azure
+  - DNS
+  - Github pages
+- Machines
+  - VirtualBox
+  - GNU Grub
+  
+
 <h2>Online Presence</h2>
 
 Discord | Github | Facebook 
