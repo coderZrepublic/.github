@@ -11,6 +11,7 @@ We are an Online institute that teach a variety of Coding languages and DevOps, 
   - pip package creation
 - Javascript
   - Next.JS
+  - Node.JS
   - React.JS
   - NPM packages
   - Nest.JS
