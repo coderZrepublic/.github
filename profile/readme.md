@@ -22,7 +22,7 @@ We are an Online institute that teach a variety of Coding languages and DevOps, 
   - MAUI
   - Winforms
   - Console Apps
-  - Dsharp
+  - DsharpPlus
   - D.net
   - WS
 - Java
